@@ -3,7 +3,7 @@
 **Project Title: Library Management System**
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![image Alt](https://github.com/lekhakasinadhuni/Library_Management_system/blob/b7fdb0f9a366c1ff51e6740d91ba578bc1e59f7e/library.jpg)
+![image Alt](https://github.com/lekhakasinadhuni/Library_Management_system/blob/983dc31169ebe6b8936e53fcf5308a2cbc6a8d0f/library.1.jpg)
 
 # Objectives
 1. **Set up the Library Management System Database:** Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
